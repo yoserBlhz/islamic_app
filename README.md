@@ -15,3 +15,5 @@ Accurate prayer times based on the user's location.
 
 # Islamic Videos:
 A collection of Islamic videos for learning and inspiration.
+
+assets/b.jpg
