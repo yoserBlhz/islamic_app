@@ -3,7 +3,7 @@ This is a comprehensive Islamic application built using Flutter for the frontend
 
 The app includes features such as Adhkar, Tasbih Counter, Prayer Times, and Islamic Videos. The backend uses NestJS to provide an API for fetching prayer times.
 
-# #Features
+# Features
 # Adhkar:
 Daily Islamic supplications (morning and evening Adhkar).
 
