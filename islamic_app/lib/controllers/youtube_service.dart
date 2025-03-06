@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class YouTubeService {
-  final String apiKey = 'AIzaSyDlVpLVIHXL1uByNJ4oLruO3VBFh5lUpto';  // Remplacez avec votre clé API
+  final String apiKey = 'YOUR-API-KEY';  // Remplacez avec votre clé API
   Future<List<Map<String, String>>> getVideosFromChannel(String channelId) async {
     final searchUrl =
         'https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=$channelId&maxResults=10&key=$apiKey';
