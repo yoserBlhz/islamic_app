@@ -17,8 +17,8 @@ Accurate prayer times based on the user's location.
 A collection of Islamic videos for learning and inspiration.
 
 ## Screenshots
-![Image](https://github.com/user-attachments/assets/ada444f1-b45e-4ce0-818e-38c27547d48f)
-![Image](https://github.com/user-attachments/assets/b11585a6-ace3-4c9f-9c15-6608774aebde)
-![Image](https://github.com/user-attachments/assets/dcadf584-b071-45f2-afdd-dfef5a05d1e6)
-![Image](https://github.com/user-attachments/assets/f82d95aa-cd65-4a2c-b313-1d0709cf412a)
-![Image](https://github.com/user-attachments/assets/e5518562-00ca-4580-91d4-e8111aed6d4a)
+<img src="https://github.com/user-attachments/assets/ada444f1-b45e-4ce0-818e-38c27547d48f" width="200" />
+<img src="https://github.com/user-attachments/assets/b11585a6-ace3-4c9f-9c15-6608774aebde" width="200" />
+<img src="https://github.com/user-attachments/assets/dcadf584-b071-45f2-afdd-dfef5a05d1e6" width="200" />
+<img src="https://github.com/user-attachments/assets/f82d95aa-cd65-4a2c-b313-1d0709cf412a" width="200" />
+<img src="https://github.com/user-attachments/assets/e5518562-00ca-4580-91d4-e8111aed6d4a" width="200" />
